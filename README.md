@@ -1,13 +1,7 @@
-### Hey, my name is RandomboiXD (But RandombX is my name that i use a lot... don't ask why.)
+### uh... hey?
 -- --
-
-The main language i write my stuff in is python, i know its... slow but it is somethin'.
-
-Other than that, mostly the repos i work in are private, though i published some repos that contain some of my oldest projects...
-
-Github for me is like... a place where i store stuff, uhm yeah you won't really see me do a pull request on a public repo... yeaaaaaaaaaah.
-
-Anyway, i pinned some repos if ya wanna look into things that i made, ⚠️warning: my code is like 🍝2.0 soooooooooooooooo yeah have fun i guess :D
+uh. i don't use github a lot anymore as i have my at home private git server. But i might put things onto github if they are good enough.
+so uh yeah.
 
 <!--
 **Randomboixd/randomboixd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
